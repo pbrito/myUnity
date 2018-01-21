@@ -12,4 +12,4 @@
  - [scripting](https://unity3d.com/learn/tutorials/s/scripting) - unity site
 
 ## Entity Component System
- - [Entitas](https://github.com/sschmid/Entitas-CSharp)
+ - [Entitas](https://github.com/sschmid/Entitas-CSharp)- Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
