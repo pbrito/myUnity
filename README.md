@@ -13,3 +13,10 @@
 
 ## Entity Component System
  - [Entitas](https://github.com/sschmid/Entitas-CSharp)- Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+ 
+ ## C# job system
+- [examples](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
+ - [SimpleAnimation](https://github.com/Unity-Technologies/SimpleAnimation)A simple Animation Component that leverages PlayableGraphs [post](https://blogs.unity3d.com/2017/11/28/introducing-the-simple-animation-component/)
+ 
+## Shaders
+[link](https://github.com/keijiro/Swarm)An example of use of compute shaders and procedural instancing.
