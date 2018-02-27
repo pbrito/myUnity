@@ -32,3 +32,7 @@ by Enrico Buonanno
 
 ## Tutorials
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
+
+
+## 2D
+-[light](https://www.youtube.com/watch?v=IjP2MeSozIs)
