@@ -21,8 +21,9 @@
  - [SimpleAnimation](https://github.com/Unity-Technologies/SimpleAnimation)A simple Animation Component that leverages PlayableGraphs [post](https://blogs.unity3d.com/2017/11/28/introducing-the-simple-animation-component/)
  
 ## Shaders
-[link](https://github.com/keijiro/Swarm)An example of use of compute shaders and procedural instancing.
-https://github.com/keijiro/ShaderGraphExamples
+- keijiro/Swarm [github](https://github.com/keijiro/Swarm)An example of use of compute shaders and procedural instancing.
+- ShaderGraphExamples[github](https://github.com/keijiro/ShaderGraphExamples)
+- introduction-to-shader-graph [blog](https://blogs.unity3d.com/2018/02/27/introduction-to-shader-graph-build-your-shaders-with-a-visual-editor/)
 
 ## Funcional c#
 
