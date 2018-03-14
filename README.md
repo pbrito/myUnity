@@ -39,5 +39,16 @@ by Enrico Buonanno
 ## 2D
 -[light](https://www.youtube.com/watch?v=IjP2MeSozIs)
 
+-[Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor)
+Main graph
+![](https://image.noelshack.com/fichiers/2018/07/4/1518696251-screen-shot-2018-02-12-at-11-39-57-pm.png)
 
-https://github.com/keijiro/PostProcessingUtilities
+Biome graph
+![](https://image.noelshack.com/fichiers/2018/07/4/1518696251-screen-shot-2018-02-12-at-11-48-34-pm.png)
+
+-[PostProcessingUtilities](https://github.com/keijiro/PostProcessingUtilities)
+
+-[SkeletalGeometricEffects](https://github.com/keijiro/SkeletalGeometricEffects)
+
+![gif](https://i.imgur.com/qgbgx3G.gif)
+![gif](https://i.imgur.com/j2N4bOQ.gif)
