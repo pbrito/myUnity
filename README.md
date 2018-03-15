@@ -56,5 +56,5 @@ Biome graph
 
 -keijiro/SkeletalGeometricEffects[github](https://github.com/keijiro/SkeletalGeometricEffects)
 
-![gif](https://i.imgur.com/qgbgx3G.gif)
-![gif](https://i.imgur.com/j2N4bOQ.gif)
+![gif](img/SkeletalGeometric0.gif)
+![gif](img/SkeletalGeometric1.gif)
