@@ -46,15 +46,15 @@ by Enrico Buonanno
 ## Graphs
 -[Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor)
 Main graph
-![](img/Biome graph .png)
+![](/img/Biome graph .png)
 
 Biome graph
-![](img/Main graph.png)
+![](/img/Main graph.png)
 ![](https://image.noelshack.com/fichiers/2018/07/4/1518696251-screen-shot-2018-02-12-at-11-48-34-pm.png)
 
 ## Animation
 
 -keijiro/SkeletalGeometricEffects[github](https://github.com/keijiro/SkeletalGeometricEffects)
 
-![gif](img/SkeletalGeometric0.gif)
-![gif](img/SkeletalGeometric1.gif)
+![gif](/img/SkeletalGeometric0.gif)
+![gif](/img/SkeletalGeometric1.gif)
