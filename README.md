@@ -46,10 +46,10 @@ by Enrico Buonanno
 ## Graphs
 -[Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor)
 Main graph
-![]("https://raw.githubusercontent.com/pbrito/myUnity/master/img/Biome graph .png")
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/BiomeGraph.png)
 
 Biome graph
-![]("https://raw.githubusercontent.com/pbrito/myUnity/master/img/Main graph.png")
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/MainGraph.png)
 
 ## Animation
 
