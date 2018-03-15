@@ -56,5 +56,5 @@ Biome graph
 
 -keijiro/SkeletalGeometricEffects[github](https://github.com/keijiro/SkeletalGeometricEffects)
 
-![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric2.gif)
+![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric0.gif)
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric1.gif)
