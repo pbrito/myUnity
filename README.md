@@ -46,9 +46,10 @@ by Enrico Buonanno
 ## Graphs
 -[Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor)
 Main graph
-![](https://image.noelshack.com/fichiers/2018/07/4/1518696251-screen-shot-2018-02-12-at-11-39-57-pm.png)
+![](img/Biome graph .png)
 
 Biome graph
+![](img/Main graph.png)
 ![](https://image.noelshack.com/fichiers/2018/07/4/1518696251-screen-shot-2018-02-12-at-11-48-34-pm.png)
 
 ## Animation
