@@ -47,10 +47,9 @@ by Enrico Buonanno
 -[Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor)
 
 Main graph
-![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/BiomeGraph.png)
 
-Biome graph
-![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/MainGraph.png)
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/MainGraph.png"   height="200" /><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/BiomeGraph.png"   height="200" />
+
 
 ## Animation
 
@@ -65,5 +64,6 @@ https://github.com/Unity-Technologies/ShaderGraph
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/shaderNodes.jpg)
 
 -ProBuilder
+
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/probuilder.jpg)
 
