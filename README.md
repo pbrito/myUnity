@@ -79,3 +79,8 @@ https://github.com/Unity-Technologies/ShaderGraph
 
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/keijiroBeta.gif)
 
+## JOGOS
+https://github.com/playdeadgames/publications
+
+
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/inside-cover-1.jpg)
