@@ -84,3 +84,9 @@ https://github.com/playdeadgames/publications
 
 
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/inside-cover-1.jpg)
+
+
+## ScriptableRenderPipeline(SRP)
+### Documentation
+-[LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
+-[HDRenderPipeline]ttps://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
