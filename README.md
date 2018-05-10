@@ -30,7 +30,8 @@ https://github.com/roboryantron/Unite2017
 Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
 https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s
 
-https://www.youtube.com/watch?v=F5S2gq-30D8
+https://www.youtube.com/watch?v=F5S2gq-30D8 Unity Scriptable Objects as Enums
+
 https://www.youtube.com/watch?v=zo2sxhv8GUk&t
 
  ## Unity Events
