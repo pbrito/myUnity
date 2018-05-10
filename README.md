@@ -20,6 +20,15 @@
   
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Voxelman.gif)
   
+## scriptableobjects
+Unite Austin 2017 - Game Architecture with Scriptable Objects
+[video](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+https://github.com/roboryantron/Unite2017
+[blogpost](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
+
+
+Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
+https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s
 
 
  ## C# job system
