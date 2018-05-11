@@ -59,15 +59,15 @@ by Enrico Buonanno
 
 ## PostProcessing
 
--keijiro/PostProcessingUtilities[github](https://github.com/keijiro/PostProcessingUtilities)
--PostProcessing [Quick-start](https://github.com/Unity-Technologies/PostProcessing/wiki/Quick-start)
+- keijiro/PostProcessingUtilities[github](https://github.com/keijiro/PostProcessingUtilities)
+- PostProcessing [Quick-start](https://github.com/Unity-Technologies/PostProcessing/wiki/Quick-start)
 
 
 ## 2D
--[light](https://www.youtube.com/watch?v=IjP2MeSozIs)
+- [light](https://www.youtube.com/watch?v=IjP2MeSozIs)
 
 ## Graphs
--[Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor) node based procedural terrain generator which aims to support a complex biome system, multiple surface generation algorithms and an easy and powerful API
+- [Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor) node based procedural terrain generator which aims to support a complex biome system, multiple surface generation algorithms and an easy and powerful API
 
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/MainGraph.png"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/BiomeGraph.png"   height="200" />
@@ -75,7 +75,7 @@ by Enrico Buonanno
 
 ## Animation
 
--keijiro/SkeletalGeometricEffects[github](https://github.com/keijiro/SkeletalGeometricEffects)
+- keijiro/SkeletalGeometricEffects[github](https://github.com/keijiro/SkeletalGeometricEffects)
 
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric0.gif)
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric1.gif)
@@ -86,12 +86,12 @@ https://github.com/Unity-Technologies/ShaderGraph
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/shaderNodes.jpg)
 
 
--Timeline 
+- Timeline 
 
 https://www.youtube.com/watch?v=nn3SnfNNEmk
 https://github.com/UnityTechnologies/ATerribleKingdom
 
--ProBuilder
+- ProBuilder
 
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/probuilder.jpg)
 
@@ -110,5 +110,5 @@ https://github.com/playdeadgames/publications
 
 ## ScriptableRenderPipeline(SRP)
 ### Documentation
--[LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
--[HDRenderPipeline]ttps://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
+- [LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
+- [HDRenderPipeline]ttps://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
