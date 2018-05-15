@@ -116,4 +116,5 @@ https://github.com/playdeadgames/publications
 
 ### Scene Track: Game Media Exporter Open Source
 [link](https://www.edfilms.store/pages/scene-track-unity-media-exporter)
-https://www.youtube.com/watch?v=1pkprLEIIMk
+presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk)
+[demo](https://www.youtube.com/watch?v=G_KMsYsoRg4)
