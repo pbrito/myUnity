@@ -66,7 +66,7 @@ by Enrico Buonanno
 
 ## 2D
 - [light](https://www.youtube.com/watch?v=IjP2MeSozIs)
-
+- 2D Animation
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/image_20.png"   height="200" />
 
 
