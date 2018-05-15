@@ -112,4 +112,8 @@ https://github.com/playdeadgames/publications
 ## ScriptableRenderPipeline(SRP)
 ### Documentation
 - [LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
-- [HDRenderPipeline]ttps://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
+- [HDRenderPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
+
+### Scene Track: Game Media Exporter Open Source
+[link](https://www.edfilms.store/pages/scene-track-unity-media-exporter)
+https://www.youtube.com/watch?v=1pkprLEIIMk
