@@ -114,7 +114,7 @@ https://github.com/playdeadgames/publications
 - [LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
 - [HDRenderPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
 
-### Scene Track: Game Media Exporter Open Source
-[link](https://www.edfilms.store/pages/scene-track-unity-media-exporter)
-presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk)
-[demo](https://www.youtube.com/watch?v=G_KMsYsoRg4)
+### [ Scene Track](https://www.edfilms.store/pages/scene-track-unity-media-exporter): Game Media Exporter Open Source
+ - presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk).
+ - [demo-tutorial](https://www.youtube.com/watch?v=G_KMsYsoRg4).
+ - Daniel Gies (E*D films) [autor chanel](https://www.youtube.com/channel/UCZD0nBcORFRo8QPxDbb4KDg)
