@@ -22,21 +22,21 @@
   
 ## scriptableobjects
 Unite Austin 2017 - Game Architecture with Scriptable Objects
-[video](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
-https://github.com/roboryantron/Unite2017
-[blogpost](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
+[[video]](https://www.youtube.com/watch?v=raQ3iHhE_Kk), 
+[[github]](https://github.com/roboryantron/Unite2017), 
+[[blogpost]](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
 
 
 Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
 https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s
 
-https://www.youtube.com/watch?v=F5S2gq-30D8 Unity Scriptable Objects as Enums
+Unity Scriptable Objects as Variables[video](https://www.youtube.com/watch?v=F5S2gq-30D8)
 
-https://www.youtube.com/watch?v=zo2sxhv8GUk&t
+Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxhv8GUk&t)
 
  ## Unity Events
  
- https://www.youtube.com/watch?v=ju6mK6-e3Oo
+ UnityEvents Tutorial [video](https://www.youtube.com/watch?v=ju6mK6-e3Oo)
 
  ## C# job system
 - [examples](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
