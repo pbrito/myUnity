@@ -121,3 +121,10 @@ https://github.com/playdeadgames/publications
  - presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk).
  - [demo-tutorial](https://www.youtube.com/watch?v=G_KMsYsoRg4).
  - Daniel Gies (E*D films) [autor chanel](https://www.youtube.com/channel/UCZD0nBcORFRo8QPxDbb4KDg)
+
+
+### Links
+
+http://tsubakit1.hateblo.jp/
+
+https://connect.unity.com/
