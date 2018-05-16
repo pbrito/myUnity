@@ -90,9 +90,10 @@ https://github.com/Unity-Technologies/ShaderGraph
 
 
 - Timeline 
-
-https://www.youtube.com/watch?v=nn3SnfNNEmk
-https://github.com/UnityTechnologies/ATerribleKingdom
+Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game
+[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
+[github](
+https://github.com/UnityTechnologies/ATerribleKingdom)
 
 - ProBuilder
 
