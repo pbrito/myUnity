@@ -27,6 +27,7 @@ Unite Austin 2017 - Game Architecture with Scriptable Objects
 [[video]](https://www.youtube.com/watch?v=raQ3iHhE_Kk), 
 [[github]](https://github.com/roboryantron/Unite2017), 
 [[blogpost]](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
+[[unity-blogpost]](https://unity3d.com/how-to/architect-with-scriptable-objects)
 
 
 Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
