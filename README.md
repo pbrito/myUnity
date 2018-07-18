@@ -39,6 +39,8 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
  ## Unity Events
  
  UnityEvents Tutorial [video](https://www.youtube.com/watch?v=ju6mK6-e3Oo)
+ - Actions 
+ https://www.youtube.com/watch?v=vDrYDAMdpuc&feature=youtu.be
 
  ## C# job system
 - [examples](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
@@ -55,6 +57,12 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
 - book [amazon](https://www.amazon.co.uk/Functional-Programming-C-Enrico-Buonanno/dp/1617293954/ref=sr_1_fkmr0_1?ie=UTF8&qid=1519648588&sr=8-1-fkmr0&keywords=functional+programming+in+c%23+enrico+bonanno)Functional Programming in C#
 by Enrico Buonanno 
 
+## Framework
+
+- StratusFramework
+In this repository you will find the source code to the Stratus Framework, a C# gameplay scripting framework for facilitating the composition of gameplay code for the Unity Engine. Its major tenet is to provide useful features with an easy to use interface while removing of as much boilerplate code from your scripts as possible.
+
+I consider this framework very much a work in progress. Even so I find its core features, the Events and Actions systems to be rather robust, and can be used as is. The interface for them won't be changing in the future, as any future work on them will be adding features and fixing any discovered issues.
 
 ## Tutorials
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
