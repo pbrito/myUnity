@@ -145,6 +145,9 @@ https://github.com/playdeadgames/publications
 
 ### Links
 
-http://tsubakit1.hateblo.jp/
+http://tsubakit1.hateblo.jp/  blog japones
+
+https://github.com/SoylentGraham/PopUnityCommon - Collection of independent & useful unity scripts - submodule this under /Assets/ in your project
+
 
 https://connect.unity.com/
