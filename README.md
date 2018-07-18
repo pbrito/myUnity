@@ -41,6 +41,9 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
  UnityEvents Tutorial [video](https://www.youtube.com/watch?v=ju6mK6-e3Oo)
  - Actions 
  https://www.youtube.com/watch?v=vDrYDAMdpuc&feature=youtu.be
+ 
+ - UnityEventVisualizer
+ https://github.com/MephestoKhaan/UnityEventVisualizer
 
  ## C# job system
 - [examples](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
