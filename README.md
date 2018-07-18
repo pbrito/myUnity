@@ -47,7 +47,7 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
  
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/event2.png"   height="200" />
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventflow.png"   height="200" />
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventflow.gif"   height="200" />
 
  ## C# job system
 - [examples](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
