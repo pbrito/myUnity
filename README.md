@@ -78,9 +78,13 @@ I consider this framework very much a work in progress. Even so I find its core 
 ## Tutorials
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
 - PlaygroundProject A collection of simple scripts to create 2D physics games[github](https://github.com/UnityTechnologies/PlaygroundProject)
+
 *Tips
+
 - [How to Cope with Standard Unity FPS Controller](https://nothkedev.blogspot.com/2017/11/how-to-cope-with-standard-unity-fps.html)
 - [procedurally-generated-meshes-in-unity](https://nothkedev.blogspot.com/2018/08/procedurally-generated-meshes-in-unity.html)
+- Writing Shaders In Unity - Post Processing Shaders - Beginner Tutorial[video](https://www.youtube.com/watch?v=IRbWGI4Rqeo)
+
 ## PostProcessing
 
 - keijiro/PostProcessingUtilities[github](https://github.com/keijiro/PostProcessingUtilities)
