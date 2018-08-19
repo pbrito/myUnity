@@ -150,6 +150,10 @@ https://github.com/playdeadgames/publications
 - [LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
 - [HDRenderPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
 
+### --
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
+[unity-shell](https://github.com/marijnz/unity-shell)
+
 ### [ Scene Track](https://www.edfilms.store/pages/scene-track-unity-media-exporter): Game Media Exporter Open Source
  - presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk).
  - [demo-tutorial](https://www.youtube.com/watch?v=G_KMsYsoRg4).
