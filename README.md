@@ -1,6 +1,7 @@
 # myUnity
 
 - GameDev[facebook](https://www.facebook.com/NeCGM.FEUP/)
+- Best Practice Guide[unity](https://docs.unity3d.com/Manual/BestPracticeGuides.html)
 
 ## Change between Scenes
  - [Ketos Games](https://www.youtube.com/watch?v=RlUEZjRUSt0)-Smooth Scene Transition Tutorial(video)
