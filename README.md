@@ -133,6 +133,9 @@ https://github.com/UnityTechnologies/ATerribleKingdom)
 
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/probuilder.jpg)
 
+
+- Attribute Extensions for Unity https://github.com/dbrizov/NaughtyAttributes
+- Tool for validating (ensuring no broken / missing outlets) objects like GameObjects, ScriptableObjects, etc, in the Unity Editor. https://github.com/DarrenTsung/DTValidator
 ## Live Programming
 
 -[keijiro/Beta](https://github.com/keijiro/Beta)
