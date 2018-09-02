@@ -151,12 +151,13 @@ https://github.com/playdeadgames/publications
 - [LightweightPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/LightweightPipeline/Documentation/GettingStarted.md)
 - [HDRenderPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/ScriptableRenderPipeline/HDRenderPipeline/Documentation/HDRenderPipeline.md)
 
-### --
+### Tools
+
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
 [unity-shell](https://github.com/marijnz/unity-shell)
 
-- Visual scripting
-
+### Visual scripting
+-using_Playmaker_in_Production[link](https://www.gamasutra.com/blogs/YankoOliveira/20180205/314233/Haruspicy_and_Canopic_Jars_using_Playmaker_in_Production.php)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/visualScripting.png)
 
 FlowCanvas
@@ -172,6 +173,12 @@ https://github.com/SaladLab/Json.Net.Unity3D
 ### RX
 
 -UniRxSimpleGame - A simple game showing how to use UniRx to make a dumb endless game for Unity [github](https://github.com/Xerios/UniRxSimpleGame)
+
+### UI Prototype
+-Prototyping UI in Unity Part 3 — Introduction to UI Components [](https://medium.com/sketch-app-sources/prototyping-ui-in-unity-part-3-introduction-to-ui-components-74cc40432bcb)
+-code https://github.com/marianomike/unity-prototype-photoapp
+
+A simple wrapper around Unity's new experimental Vector API, letting you draw as if you were inside a HTML5 canvas. Demonstrates basic fills, strokes and fill rules.[unity-vg-demo](https://github.com/poke1024/unity-vg-demo)
 
 ### [ Scene Track](https://edfilms.net/scene-track-game-media-exporter): Game Media Exporter Open Source
  - presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk).
