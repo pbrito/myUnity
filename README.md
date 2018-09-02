@@ -170,8 +170,8 @@ FlowCanvas
 ### JSON
 https://github.com/SaladLab/Json.Net.Unity3D
 
-### RX
-
+### uniRX - Reactive Extensions for Unity 
+-Reactive Extensions for Unity [github](https://github.com/neuecc/UniRx)
 -UniRxSimpleGame - A simple game showing how to use UniRx to make a dumb endless game for Unity [github](https://github.com/Xerios/UniRxSimpleGame)
 
 ### UI Prototype
