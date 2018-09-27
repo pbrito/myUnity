@@ -4,11 +4,12 @@
 - Best Practice Guide[unity](https://docs.unity3d.com/Manual/BestPracticeGuides.html)
 
 ## Change between Scenes
+ - Spotlight Team Best Practices: GUID based references [blog](https://blogs.unity3d.com/2018/07/19/spotlight-team-best-practices-guid-based-references/)
  - [Ketos Games](https://www.youtube.com/watch?v=RlUEZjRUSt0)-Smooth Scene Transition Tutorial(video)
  - [youtube Brackeys](https://www.youtube.com/watch?v=0HwZQt94uHQ)How to Fade Between Scenes in Unity
  - uses timeline [video](https://www.youtube.com/watch?v=vOWEtSXjk2c)
  -  Screen Wipe for level loading / transitions in Unity3D - Using UGUI  [video]( https://www.youtube.com/watch?v=clN7JItftTE)
-
+ -
 ## Mobile
  - [site](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing)Building your Unity game to an Android device for testing
 
@@ -124,13 +125,9 @@ https://github.com/Unity-Technologies/ShaderGraph
 
 
 - Timeline 
-Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game
-[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
-[github](
-https://github.com/UnityTechnologies/ATerribleKingdom)
-
-extending timeline. A practical guide
-[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
+  -Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
+[github](https://github.com/UnityTechnologies/ATerribleKingdom)
+  -extending timeline. A practical guide[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
 
 - ProBuilder
 
