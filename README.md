@@ -129,6 +129,9 @@ Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game
 [github](
 https://github.com/UnityTechnologies/ATerribleKingdom)
 
+extending timeline. A practical guide
+[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
+
 - ProBuilder
 
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/probuilder.jpg)
