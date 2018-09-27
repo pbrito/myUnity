@@ -125,9 +125,9 @@ https://github.com/Unity-Technologies/ShaderGraph
 
 
 - Timeline 
-  -Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
+  * Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
 [github](https://github.com/UnityTechnologies/ATerribleKingdom)
-  -extending timeline. A practical guide[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
+  * extending timeline. A practical guide[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
 
 - ProBuilder
 
