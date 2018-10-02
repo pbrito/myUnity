@@ -55,6 +55,8 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventflow.gif"   height="200" />
 
+- SmartData [github](https://github.com/sigtrapgames/SmartData)
+
 - [EventBus](https://github.com/SaldayOpen/EventBus)is a system, which could dispatch published events to any registered handler accepting particular event argument. This means, that your event sources should no longer contain references to other components, only to event bus.
 
  ## C# job system
