@@ -91,7 +91,7 @@ I consider this framework very much a work in progress. Even so I find its core 
 - [procedurally-generated-meshes-in-unity](https://nothkedev.blogspot.com/2018/08/procedurally-generated-meshes-in-unity.html)
 - Writing Shaders In Unity - Post Processing Shaders - Beginner Tutorial[video](https://www.youtube.com/watch?v=IRbWGI4Rqeo)
 -click object
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/4wayClick  height="200" />
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/4wayClick.jpg"  height="200" />
 ## PostProcessing
 
 - keijiro/PostProcessingUtilities[github](https://github.com/keijiro/PostProcessingUtilities)
