@@ -62,3 +62,7 @@ https://cgi.tutsplus.com/tutorials/how-to-rig-a-2d-character-in-blender-for-cut-
 
 http://zakjr.com/blog/blender-to-unity-workflow-part-8
 
+
+
+## shading 
+https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
