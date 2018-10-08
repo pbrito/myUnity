@@ -12,12 +12,11 @@ DimitriX89
 UVWarp is a Blender-specific modifier, so it wont export anywhere. 
 What you could use is shape key animation. The common solution for cartoon eyes is Lattice modifier
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/b2.png"   height="200" />
-https://www.youtube.com/watch?v=g6ozlmgvesc
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/b2.png"   height="200" />[youtube](https://www.youtube.com/watch?v=g6ozlmgvesc)
 ,use it to produce shape keys representing all look directions (4 for each eye). 
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/b1.png"   height="200" />
-https://www.youtube.com/watch?v=gDZcmAWL2jA
+[youtube](https://www.youtube.com/watch?v=gDZcmAWL2jA)
 Then, you have to export the mesh as *.FBX and animate these shape keys using Unity internal animation tool, because Unity can only import shape key mesh data, not the shape key actions.
 
 Thank you so far, I tried this and it works in Blender - 
@@ -81,8 +80,7 @@ https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/shGr.jpg" height="150" />  
 https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/SF1.jpeg" height="150" />  
-[blog unity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/SF1.jpeg" height="150" />[blog unity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
 
 https://forum.unity.com/threads/dd-standard-toon.496744/
 https://forum.unity.com/threads/guilty-gear-xrd-shader-test.448557/page-2
