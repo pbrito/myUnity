@@ -13,10 +13,10 @@ UVWarp is a Blender-specific modifier, so it wont export anywhere.
 What you could use is shape key animation. The common solution for cartoon eyes is Lattice modifier
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/b2.png"   height="200" />[youtube](https://www.youtube.com/watch?v=g6ozlmgvesc)
+
 ,use it to produce shape keys representing all look directions (4 for each eye). 
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/b1.png"   height="200" />
-[youtube](https://www.youtube.com/watch?v=gDZcmAWL2jA)
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/b1.png"   height="200" />[youtube](https://www.youtube.com/watch?v=gDZcmAWL2jA)
 Then, you have to export the mesh as *.FBX and animate these shape keys using Unity internal animation tool, because Unity can only import shape key mesh data, not the shape key actions.
 
 Thank you so far, I tried this and it works in Blender - 
