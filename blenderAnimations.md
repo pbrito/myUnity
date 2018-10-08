@@ -65,7 +65,8 @@ Blender bones Tutorial - Low Poly Chest Animation
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/ch-01.jpg" height="150" /><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/rigging-11.jpg" height="150" />
 how-to-rig-a-2d-character-in-blender [blog](https://cgi.tutsplus.com/tutorials/how-to-rig-a-2d-character-in-blender-for-cut-out-animation-or-explainer-videos-part-1--cms-26159)
 
-http://zakjr.com/blog/blender-to-unity-workflow-part-8
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/btuw.jpg" height="150" />    <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/btuR.jpg" height="150" />
+blender-to-unity-workflow [part-6](http://zakjr.com/blog/blender-to-unity-workflow-part-6)
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/faceAnim.png"   height="300" />
 
