@@ -78,6 +78,9 @@ http://zakjr.com/blog/blender-to-unity-workflow-part-8
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh1.png" height="150" />   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh2.png" height="150" />
 https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
 
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/shGr.jpg" height="150" />  
+https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
+
 
 https://forum.unity.com/threads/dd-standard-toon.496744/
 https://forum.unity.com/threads/guilty-gear-xrd-shader-test.448557/page-2
