@@ -71,8 +71,9 @@ https://cgi.tutsplus.com/tutorials/how-to-rig-a-2d-character-in-blender-for-cut-
 
 http://zakjr.com/blog/blender-to-unity-workflow-part-8
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/faceAnim.png"   height="150" />
-https://www.youtube.com/watch?v=b8-4IQr6PEg&t=9575s
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/faceAnim.png"   height="300" />
+[face Animation](https://www.youtube.com/watch?v=b8-4IQr6PEg&t=9575s)
+
 
 
 ## shading 
