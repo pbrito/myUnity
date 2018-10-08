@@ -56,4 +56,9 @@ https://www.youtube.com/watch?v=xlYQp8pJqwk
 ## bones
 
 
+https://www.raywenderlich.com/6055-creating-reusable-characters-with-blender-and-unity
+
+https://cgi.tutsplus.com/tutorials/how-to-rig-a-2d-character-in-blender-for-cut-out-animation-or-explainer-videos-part-1--cms-26159
+
+http://zakjr.com/blog/blender-to-unity-workflow-part-8
 
