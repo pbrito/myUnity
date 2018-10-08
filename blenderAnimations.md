@@ -61,8 +61,9 @@ Blender bones Tutorial - Low Poly Chest Animation
 
 https://www.youtube.com/watch?v=xlYQp8pJqwk
 
-
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/RotateAround.gif"   height="150" />
 https://www.raywenderlich.com/6055-creating-reusable-characters-with-blender-and-unity
+
 
 https://cgi.tutsplus.com/tutorials/how-to-rig-a-2d-character-in-blender-for-cut-out-animation-or-explainer-videos-part-1--cms-26159
 
