@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
 https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/SF1.jpeg" height="150" />  
-https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/
+[blog.umity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
 
 https://forum.unity.com/threads/dd-standard-toon.496744/
 https://forum.unity.com/threads/guilty-gear-xrd-shader-test.448557/page-2
@@ -97,9 +97,9 @@ http://panupat3d.blogspot.com/2014/07/guilty-gear-xrd-part-2-camera-animation.ht
 
 https://twitter.com/minionsart
 
-<img src="https://pbs.twimg.com/tweet_video_thumb/DLNvX_vW0AUS7jU.jpg"  height="200" >https://video.twimg.com/tweet_video/DLNvX_vW0AUS7jU.mp4
+<img src="https://pbs.twimg.com/tweet_video_thumb/DLNvX_vW0AUS7jU.jpg"  height="200" >[anim](https://video.twimg.com/tweet_video/DLNvX_vW0AUS7jU.mp4)
 
-<img src="https://pbs.twimg.com/tweet_video_thumb/DoI9-siUYAA6275.jpg"   height="200" >https://video.twimg.com/tweet_video/DoI9-siUYAA6275.mp4
+<img src="https://pbs.twimg.com/tweet_video_thumb/DoI9-siUYAA6275.jpg"   height="200" >[anim](https://video.twimg.com/tweet_video/DoI9-siUYAA6275.mp4)
 
 Link LOSES his TOON! BotW in UNREAL Engine 4?! weirdness in Zelda Breath of the Wild
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/zeld.png"    height="200" >
