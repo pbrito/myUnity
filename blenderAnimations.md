@@ -72,7 +72,7 @@ https://www.patreon.com/minionsart
 https://www.patreon.com/posts/tutorial-list-10663597
 http://panupat3d.blogspot.com/2014/07/guilty-gear-xrd-part-1-model-shading.html
 http://panupat3d.blogspot.com/2014/07/guilty-gear-xrd-part-2-camera-animation.html
-
+https://www.slideshare.net/Unite2017Tokyo/unite-2017-tokyounity-75800622
 <img src="https://pbs.twimg.com/tweet_video_thumb/DLNvX_vW0AUS7jU.jpg">
 src="https://video.twimg.com/tweet_video/DLNvX_vW0AUS7jU.mp4" type="video/mp4" style="width: 100%; height: 100%; position: absolute; background-color: black; transform: rotate(0deg) scale(1.005);"
 
