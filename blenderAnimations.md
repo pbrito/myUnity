@@ -66,3 +66,11 @@ http://zakjr.com/blog/blender-to-unity-workflow-part-8
 
 ## shading 
 https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
+https://forum.unity.com/threads/dd-standard-toon.496744/
+https://forum.unity.com/threads/guilty-gear-xrd-shader-test.448557/page-2
+https://www.patreon.com/minionsart
+https://www.patreon.com/posts/tutorial-list-10663597
+http://panupat3d.blogspot.com/2014/07/guilty-gear-xrd-part-1-model-shading.html
+http://panupat3d.blogspot.com/2014/07/guilty-gear-xrd-part-2-camera-animation.html
+
+<video preload="auto" playsinline="" poster="https://pbs.twimg.com/tweet_video_thumb/DLNvX_vW0AUS7jU.jpg" src="https://video.twimg.com/tweet_video/DLNvX_vW0AUS7jU.mp4" type="video/mp4" style="width: 100%; height: 100%; position: absolute; background-color: black; transform: rotate(0deg) scale(1.005);"></video>
