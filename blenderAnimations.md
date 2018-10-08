@@ -44,6 +44,16 @@ A skinned mesh renderer is automatically added to any object imported with an ar
 The BlendShape slider appears on the SMR component.
 
 http://docs.unity3d.com/Manual/BlendShapes.html
+https://www.youtube.com/watch?v=JIc6131M2v8
+
+## Animation
+
+https://www.youtube.com/watch?time_continue=55&v=8181FF9zQlo
+https://www.youtube.com/watch?v=unFd5a9-Ga8
+https://www.youtube.com/watch?v=xlYQp8pJqwk
 
 
 ## bones
+
+
+
