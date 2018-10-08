@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
 https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/SF1.jpeg" height="150" />  
-[blog.umity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
+[blog unity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
 
 https://forum.unity.com/threads/dd-standard-toon.496744/
 https://forum.unity.com/threads/guilty-gear-xrd-shader-test.448557/page-2
