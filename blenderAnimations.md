@@ -91,6 +91,12 @@ Shaders Case Study - Brawl Stars: Toon Shading [video](https://www.youtube.com/w
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/shGr.jpg" height="150" />  
 https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
 
+
+
+
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/toonSh1.png" height="150" />
+Tutorial Toon Outlines [video](https://www.youtube.com/watch?v=eZlIbvbQtqs)
+
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/SF1.jpeg" height="150" />[blog unity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
 
 https://forum.unity.com/threads/dd-standard-toon.496744/
