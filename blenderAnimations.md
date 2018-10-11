@@ -85,7 +85,8 @@ face Animation [video](https://www.youtube.com/watch?v=b8-4IQr6PEg&t=9575s)
 
 ## shading 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh1.png" height="150" />   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh2.png" height="150" />
-https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s
+
+Shaders Case Study - Brawl Stars: Toon Shading [video](https://www.youtube.com/watch?v=W3Yg2i17TDo&t=166s)
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/shGr.jpg" height="150" />  
 https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
@@ -120,4 +121,4 @@ https://www.youtube.com/watch?v=oc6oVjWY_Gg
 
 https://www.youtube.com/watch?v=k4NTf0hMjtY
 
-: https://alicevision.github.io/#meshroom
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/meshroom.png"   height="100" />https://alicevision.github.io/#meshroom
