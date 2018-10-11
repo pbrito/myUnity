@@ -94,10 +94,13 @@ https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/toonSh1.png" height="150" />
 
-Particles Case Study - The Legend Of Zelda: The Wind Waker[video](https://www.youtube.com/watch?v=0IrCggoJCno)
+Tutorial Toon Outlines [video](https://www.youtube.com/watch?v=eZlIbvbQtqs)
+
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/zeldaPartic.png" height="150" />
-Tutorial Toon Outlines [video](https://www.youtube.com/watch?v=eZlIbvbQtqs)
+
+Particles Case Study - The Legend Of Zelda: The Wind Waker[video](https://www.youtube.com/watch?v=0IrCggoJCno)
+
 
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/SF1.jpeg" height="150" />[blog unity](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/)
