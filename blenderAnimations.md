@@ -68,6 +68,11 @@ how-to-rig-a-2d-character-in-blender [blog](https://cgi.tutsplus.com/tutorials/h
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/btuw.jpg" height="150" />    <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/btuR.jpg" height="150" />
 blender-to-unity-workflow [part-6](http://zakjr.com/blog/blender-to-unity-workflow-part-6)
 
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/latti.png"   height="300" />
+Lattice Rig Tutorial Blender [video](https://www.youtube.com/watch?v=pUFzpIqlCfg)
+
+
+
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/faceAnim.png"   height="300" />
 
 face Animation [video](https://www.youtube.com/watch?v=b8-4IQr6PEg&t=9575s)
