@@ -47,12 +47,16 @@ https://www.youtube.com/watch?v=JIc6131M2v8
 
 ## Animation
 
+
+
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/bAnim.png" height="200" >
+
+Blender Character Animation for Unity [video](
+https://www.youtube.com/watch?time_continue=55&v=8181FF9zQlo)
+
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/btu.png"     height="200" >
-https://www.youtube.com/watch?time_continue=55&v=8181FF9zQlo
 
-https://www.youtube.com/watch?v=unFd5a9-Ga8
-
-
+Blender Shape Keys for Unity Blendshapes [video](https://www.youtube.com/watch?v=unFd5a9-Ga8)
 
 ## bones
 
