@@ -58,11 +58,33 @@ https://www.youtube.com/watch?time_continue=55&v=8181FF9zQlo)
 
 Blender Shape Keys for Unity Blendshapes [video](https://www.youtube.com/watch?v=unFd5a9-Ga8)
 
+
+The correct workflow is from object mode first select the armature, go into pose mode, while in pose mode hold shift and select the mesh object you wish to weight paint, when both the armature and mesh are selected, the mesh being the active object, go into weight paint mode and you will be able to select the bones you wish to adjust weights for, in addition to adjusting the bone transforms as if in pose mode.
+
+Note: that if you are using left mouse to select option in the input user preferences you will be unable to select bones while in weight paint mode, because the left mouse is already used to paint the weight value, I would recommend temporarily turning this off, using right mouse to select, while skinning a mesh to an armature to avoid this issue.
+
+There is also the option to recreate all the Activate/Select keymap items, normally located within:
+
+User Preferences → Input → 3D View → 3D View (Global)
+
+Recreating these keymap items within:
+
+User Preferences → Input → 3D View → Weight Paint
+
+using Right Mouse as the event value (keybinding) rather then Select Mouse this will allow you to select bones with the right mouse button while in weight paint mode. Note that this is unnecessary if you are using right mouse to select by default.
+
+
+
 ## bones
 
 Blender bones Tutorial - Low Poly Chest Animation 
 
+Ter mais que uma Armature num ficheiro blender confude o Unity.
+
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/bbonesC.png"   height="150" /> [video](https://www.youtube.com/watch?v=xlYQp8pJqwk)
+
+
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/armatureBones.png"   height="150" /> [video](https://www.youtube.com/watch?v=tTM1TE40Loc)
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/RotateAround.gif"   height="150" />humanoide [blog](https://www.raywenderlich.com/6055-creating-reusable-characters-with-blender-and-unity)
 
