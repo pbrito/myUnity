@@ -103,6 +103,13 @@ Lattice Rig Tutorial Blender [video](https://www.youtube.com/watch?v=pUFzpIqlCfg
 
 face Animation [video](https://www.youtube.com/watch?v=b8-4IQr6PEg&t=9575s)
 
+https://lmhpoly.com/blender-tutorial-origin-point/
+
+
+
+Exemplo como poderia utilizar o unity com animacao de vectores, embora so teria a estrutura de ossos.
+Uncle Sam (Pt2) Spine 2D Animation Process - Time 
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/uncleSam.jpg"   height="300" />
 
 
 ## shading 
