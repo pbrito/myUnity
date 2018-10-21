@@ -107,6 +107,9 @@ https://lmhpoly.com/blender-tutorial-origin-point/
 
 
 
+Atencao se carregar neste icon a rotacao de objectos nao funciona
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/rotacao.jpg" height="150" />  
+
 
 ## shading 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh1.png" height="150" />   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh2.png" height="150" />
