@@ -140,7 +140,7 @@ https://github.com/Unity-Technologies/ShaderGraph
   * Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
 [github](https://github.com/UnityTechnologies/ATerribleKingdom)
   * extending timeline. A practical guide[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
-  * Animation Events (animation window -AINDA NAO IMPLEMENTADO NA TIMELINE)
+  * Animation Events (animation window -AINDA NAO IMPLEMENTADO NA TIMELINE - https://forum.unity.com/threads/timeline-events.479400/page-4)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/AnimationEditorEventLine.png)
   https://docs.unity3d.com/Manual/animeditor-AnimationEvents.html
 
