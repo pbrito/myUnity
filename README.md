@@ -130,7 +130,8 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric1.gif)
 
 ## Unity tools
--ShaderGraph
+- ShaderGraph
+- 
 https://github.com/Unity-Technologies/ShaderGraph
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/shaderNodes.jpg)
 
@@ -139,6 +140,9 @@ https://github.com/Unity-Technologies/ShaderGraph
   * Unite Austin 2017 - Bridging Gameplay and Storytelling in an RTS Game[video](https://www.youtube.com/watch?v=nn3SnfNNEmk)
 [github](https://github.com/UnityTechnologies/ATerribleKingdom)
   * extending timeline. A practical guide[blog]https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/)
+  * Animation Events (animation window -AINDA NAO IMPLEMENTADO NA TIMELINE)
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/AnimationEditorEventLine.png)
+  https://docs.unity3d.com/Manual/animeditor-AnimationEvents.html
 
 - ProBuilder
 
