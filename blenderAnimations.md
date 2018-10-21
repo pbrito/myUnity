@@ -107,10 +107,6 @@ https://lmhpoly.com/blender-tutorial-origin-point/
 
 
 
-Exemplo como poderia utilizar o unity com animacao de vectores, embora so teria a estrutura de ossos.
-Uncle Sam (Pt2) Spine 2D Animation Process - Time 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/uncleSam.jpg"   height="300" />
-
 
 ## shading 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh1.png" height="150" />   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/sh2.png" height="150" />

@@ -109,6 +109,13 @@ I consider this framework very much a work in progress. Even so I find its core 
 https://github.com/Unity-Technologies/2d-spriteshape-samples
 
 
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/uncleSam.jpg"   height="300" />
+
+Exemplo como poderia utilizar o unity com animacao de vectores, embora so teria a estrutura de ossos.
+Uncle Sam (Pt2) Spine 2D Animation Process - Time 
+
+
+
 ## Graphs
 - [Procedural-Worlds-Editor](https://github.com/alelievr/Procedural-Worlds-Editor) node based procedural terrain generator which aims to support a complex biome system, multiple surface generation algorithms and an easy and powerful API
 
