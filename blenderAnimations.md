@@ -162,3 +162,11 @@ https://www.youtube.com/watch?v=oc6oVjWY_Gg
 https://www.youtube.com/watch?v=k4NTf0hMjtY
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/meshroom.png"   height="100" />https://alicevision.github.io/#meshroom
+
+
+- Destructive Extrude for Blender
+
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/blender/Extrude.png"    height="200" >
+
+
+https://gumroad.com/l/cQjUX
