@@ -112,11 +112,11 @@ Atencao se carregar neste icon a rotacao de objectos nao funciona
 
 
 
-##Avatar
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/avatar.jpg" height="150" />  
+## Avatar
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/avatar.jpg" height="400" />  
 
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/avatar2.jpg" height="150" />  
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/avatar2.jpg" height="450" />  
 
 
 ## shading 
