@@ -179,7 +179,7 @@ firewatch
 
 - Return of the Obra Dinn
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"  width="300" height="169">
 
 
 GTA SA map in unity
