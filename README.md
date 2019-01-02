@@ -193,6 +193,10 @@ https://bitbucket.org/MukaSchultze/grand-theft-auto-for-unity/src
 
 - ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
 [unity-shell](https://github.com/marijnz/unity-shell)
+
+- A console for use in Unity Projects.
+The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. There are some examples shipped with the base package.
+[Console](https://github.com/peeweek/Console)
 - Mapbox[unity-sdk](https://www.mapbox.com/unity-sdk)
 
 ### Visual scripting
