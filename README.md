@@ -196,6 +196,10 @@ https://bitbucket.org/MukaSchultze/grand-theft-auto-for-unity/src
 
 ### Tools
 
+- Materialize - Free Texture Map Generation Tool
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.png)
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.GIF)
+
 - ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
 [unity-shell](https://github.com/marijnz/unity-shell)
 
