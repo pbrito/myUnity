@@ -47,8 +47,8 @@
 
 
  - Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
-https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s
-
+[video](https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s)
+   ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptOOver.jpg)
 
 
 Unity Scriptable Objects as Variables[video](https://www.youtube.com/watch?v=F5S2gq-30D8)
