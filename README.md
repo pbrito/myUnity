@@ -40,8 +40,8 @@
 
 
 - SmartData [github](https://github.com/sigtrapgames/SmartData) implementacao da talk acima referida
-  
-      ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scripObjScreen.png)
+    ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scripObjScreen.png)
+
  
 
 
