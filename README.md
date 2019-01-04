@@ -23,7 +23,9 @@
   - [job-system-cookbook](https://github.com/stella3d/job-system-cookbook)
   - ECS Samples by Unity [EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
   - ECS Doc by Unity [Documentation](https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation/index.md)
-  - [keijiro/Voxelman](https://github.com/keijiro/Voxelman)
+  - Survival Shooter using Unity’s Entity Component System (revisited)
+  [link](https://medium.com/@gamevanilla/survival-shooter-using-unitys-entity-component-system-revisited-874cd69085ae) 
+  - [keijiro/Voxelman](https://github.com/keijiro/Voxelman) post written by David Pol 
   
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Voxelman.gif)
   
