@@ -9,7 +9,7 @@
  - [youtube Brackeys](https://www.youtube.com/watch?v=0HwZQt94uHQ)How to Fade Between Scenes in Unity
  - uses timeline [video](https://www.youtube.com/watch?v=vOWEtSXjk2c)
  -  Screen Wipe for level loading / transitions in Unity3D - Using UGUI  [video]( https://www.youtube.com/watch?v=clN7JItftTE)
- -
+ 
 ## Mobile
  - [site](https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing)Building your Unity game to an Android device for testing
 
@@ -24,9 +24,9 @@
   - ECS Samples by Unity [EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
   - ECS Doc by Unity [Documentation](https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation/index.md)
   - Survival Shooter using Unity’s Entity Component System (revisited)
-  [link](https://medium.com/@gamevanilla/survival-shooter-using-unitys-entity-component-system-revisited-874cd69085ae) 
-  - [keijiro/Voxelman](https://github.com/keijiro/Voxelman) post written by David Pol 
+  [post](https://medium.com/@gamevanilla/survival-shooter-using-unitys-entity-component-system-revisited-874cd69085ae) written by David Pol 
   
+  - [keijiro/Voxelman](https://github.com/keijiro/Voxelman)
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Voxelman.gif)
   
 ## scriptableobjects
@@ -132,9 +132,7 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric1.gif)
 
 ## Unity tools
-- ShaderGraph
-- 
-https://github.com/Unity-Technologies/ShaderGraph
+- [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/shaderNodes.jpg)
 
 
@@ -239,6 +237,7 @@ https://github.com/SaladLab/Json.Net.Unity3D
 A simple wrapper around Unity's new experimental Vector API, letting you draw as if you were inside a HTML5 canvas. Demonstrates basic fills, strokes and fill rules.[unity-vg-demo](https://github.com/poke1024/unity-vg-demo)
 
 ### [ Scene Track](https://edfilms.net/scene-track-game-media-exporter): Game Media Exporter Open Source
+Scene Track: Game Media Exporter is an open source animation tool that delivers four kinds of data from Unity. By recording real-time gameplay, artists can now get video, image, MIDI and FBX files. Play. Record. Export. It's that easy. You don't need to know code. Jump in and try. It'll blow your mind!
  - presentation [video](https://www.youtube.com/watch?v=1pkprLEIIMk).
  - [demo-tutorial](https://www.youtube.com/watch?v=G_KMsYsoRg4).
  - Daniel Gies (E*D films) [autor chanel](https://www.youtube.com/channel/UCZD0nBcORFRo8QPxDbb4KDg)
@@ -246,7 +245,7 @@ A simple wrapper around Unity's new experimental Vector API, letting you draw as
 
 ### Links
 
-https://google.github.io/filament/Filament.md.html   Filament is exceedingly well documented and is a great read for anyone working on a renderer, even if you have little interest in using Filament in your own projec
+[Filament "Docs"](https://google.github.io/filament/Filament.md.html) is exceedingly well documented and is a great read for anyone working on a renderer, even if you have little interest in using Filament in your own projec
 
 http://tsubakit1.hateblo.jp/  blog japones
 
