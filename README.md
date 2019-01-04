@@ -36,7 +36,7 @@
 [[github]](https://github.com/roboryantron/Unite2017), 
 [[blogpost]](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
 [[unity-blogpost]](https://unity3d.com/how-to/architect-with-scriptable-objects)
- ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptObj.png)
+    ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptObj.png)
 
 
 - SmartData [github](https://github.com/sigtrapgames/SmartData) implementacao da talk acima referida
