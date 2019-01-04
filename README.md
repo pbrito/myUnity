@@ -173,7 +173,7 @@ http://www.thegardensbetween.com/
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/gardensBetween.gif"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/animGardenB.gif"   height="200" />
 
-firewatch
+- firewatch
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_01.jpg"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
 
@@ -182,7 +182,7 @@ firewatch
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"  width="300" height="169">
 
 
-GTA SA map in unity
+- GTA SA map in unity
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/GTASA_GoldenGate.png"   height="200" />
 
