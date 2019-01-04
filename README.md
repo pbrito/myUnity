@@ -200,8 +200,8 @@ https://bitbucket.org/MukaSchultze/grand-theft-auto-for-unity/src
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.png)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.GIF)
 
-- A console for use in Unity Projects.
-- [unity-shell](https://github.com/marijnz/unity-shell) -The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. 
+
+- A console for use in Unity Projects[unity-shell](https://github.com/marijnz/unity-shell) -The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. 
 There are some examples shipped with the base package.
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
