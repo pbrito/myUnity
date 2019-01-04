@@ -60,15 +60,15 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
  - UnityEvents Tutorial [video](https://www.youtube.com/watch?v=ju6mK6-e3Oo)
  
       ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventsTut.jpg)
- - Actions 
- https://www.youtube.com/watch?v=vDrYDAMdpuc&feature=youtu.be
+ - Actions - In this episode we look at how scripts can communicate with one another, either through a reference to the other script, or using events
+ [video](https://www.youtube.com/watch?v=vDrYDAMdpuc&feature=youtu.be)
  
  - UnityEventVisualizer
- https://github.com/MephestoKhaan/UnityEventVisualizer
+[github]( https://github.com/MephestoKhaan/UnityEventVisualizer)
  
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/event2.png"   height="200" />
+      <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/event2.png"   height="200" />
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventflow.gif"   height="200" />
+      <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventflow.gif"   height="200" />
 
 
 - [EventBus](https://github.com/SaldayOpen/EventBus)is a system, which could dispatch published events to any registered handler accepting particular event argument. This means, that your event sources should no longer contain references to other components, only to event bus.
