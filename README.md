@@ -30,15 +30,23 @@
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Voxelman.gif)
   
 ## scriptableobjects
-Unite Austin 2017 - Game Architecture with Scriptable Objects
+ - Unite Austin 2017 - Game Architecture with Scriptable Objects
 [[video]](https://www.youtube.com/watch?v=raQ3iHhE_Kk), 
 [[github]](https://github.com/roboryantron/Unite2017), 
 [[blogpost]](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
 [[unity-blogpost]](https://unity3d.com/how-to/architect-with-scriptable-objects)
 
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptObj.png)
 
-Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
+
+- SmartData [github](https://github.com/sigtrapgames/SmartData)
+  
+
+
+ - Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
 https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s
+
+
 
 Unity Scriptable Objects as Variables[video](https://www.youtube.com/watch?v=F5S2gq-30D8)
 
@@ -58,7 +66,6 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventflow.gif"   height="200" />
 
-- SmartData [github](https://github.com/sigtrapgames/SmartData)
 
 - [EventBus](https://github.com/SaldayOpen/EventBus)is a system, which could dispatch published events to any registered handler accepting particular event argument. This means, that your event sources should no longer contain references to other components, only to event bus.
 
