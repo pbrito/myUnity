@@ -196,17 +196,19 @@ https://bitbucket.org/MukaSchultze/grand-theft-auto-for-unity/src
 
 ### Tools
 
-- Materialize - Free Texture Map Generation Tool
+- [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) - Free Texture Map Generation Tool
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.png)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.GIF)
 
-- ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
-[unity-shell](https://github.com/marijnz/unity-shell)
-
-- A console for use in Unity Projects.
+- A console for use in Unity Projects.[unity-shell](https://github.com/marijnz/unity-shell)
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unishell.gif)
 The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. There are some examples shipped with the base package.
-[Console](https://github.com/peeweek/Console)
-- Mapbox[unity-sdk](https://www.mapbox.com/unity-sdk)
+- [unishell](https://github.com/rje/unishell) Interactive C# Shell for the Unity3d editor 
+
+- [Console](https://github.com/peeweek/Console) -
+A console for use in Unity Projects. The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. There are some examples shipped with the base package.
+- [Mapbox unity-sdk](https://www.mapbox.com/unity-sdk)
+The Maps SDK for Unity is a collection of tools for building Unity applications from real map data. It enables Unity developers to interact with Mapbox web services APIs (including the Maps, Geocoding and Directions APIs) and create game objects via a C#-based API and graphical user interface.
 
 ### Visual scripting
 -using_Playmaker_in_Production[link](https://www.gamasutra.com/blogs/YankoOliveira/20180205/314233/Haruspicy_and_Canopic_Jars_using_Playmaker_in_Production.php)
@@ -239,6 +241,8 @@ A simple wrapper around Unity's new experimental Vector API, letting you draw as
 
 
 ### Links
+
+https://google.github.io/filament/Filament.md.html   Filament is exceedingly well documented and is a great read for anyone working on a renderer, even if you have little interest in using Filament in your own projec
 
 http://tsubakit1.hateblo.jp/  blog japones
 
