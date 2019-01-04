@@ -27,7 +27,8 @@
   [post](https://medium.com/@gamevanilla/survival-shooter-using-unitys-entity-component-system-revisited-874cd69085ae) written by David Pol 
   
   - [keijiro/Voxelman](https://github.com/keijiro/Voxelman)
-![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Voxelman.gif)
+ 
+     ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Voxelman.gif)
   
 ## scriptableobjects
  - Unite Austin 2017 - Game Architecture with Scriptable Objects
@@ -35,11 +36,10 @@
 [[github]](https://github.com/roboryantron/Unite2017), 
 [[blogpost]](http://www.roboryantron.com/2017/10/unite-2017-game-architecture-with.html)
 [[unity-blogpost]](https://unity3d.com/how-to/architect-with-scriptable-objects)
+ ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptObj.png)
 
-![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptObj.png)
 
-
-- SmartData [github](https://github.com/sigtrapgames/SmartData)
+- SmartData [github](https://github.com/sigtrapgames/SmartData) implementacao da talk acima referida
   
 
 
@@ -55,7 +55,7 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
  ## Unity Events
  
  - UnityEvents Tutorial [video](https://www.youtube.com/watch?v=ju6mK6-e3Oo)
- ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventsTut.jpg)
+      ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/eventsTut.jpg)
  - Actions 
  https://www.youtube.com/watch?v=vDrYDAMdpuc&feature=youtu.be
  
