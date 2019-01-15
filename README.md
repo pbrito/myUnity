@@ -175,26 +175,27 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/keijiroBeta.gif)
 
 ## JOGOS
-https://github.com/playdeadgames/publications
 
 
+- inside - docs https://github.com/playdeadgames/publications 
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/inside-cover-1.jpg"   height="200" /><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/insideAni.png"   height="200" />
+   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/inside-cover-1.jpg"   height="200" /><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/insideAni.png"   height="200" />
 
-http://www.thegardensbetween.com/
+- the gardens between - http://www.thegardensbetween.com/
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/gardensBetween.gif"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/animGardenB.gif"   height="200" />
+   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/gardensBetween.gif"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/animGardenB.gif"   height="200" />
 
 - firewatch
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_01.jpg"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
+   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_01.jpg"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
 
 - Return of the Obra Dinn
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"  width="300" height="169">
+   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"  width="300" height="169">
 
+- Subnautica
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnautica.jpg"  width="300" height="169">
+   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnautica.jpg"  width="300" height="169">
 
 Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3] with Charlie Cleveland as the game director and lead gameplay programmer, and Hugh Jeremy as the producer.[1]
 
