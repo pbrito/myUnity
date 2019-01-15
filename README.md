@@ -194,6 +194,12 @@ http://www.thegardensbetween.com/
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"  width="300" height="169">
 
 
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnautica.jpg"  width="300" height="169">
+
+Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3] with Charlie Cleveland as the game director and lead gameplay programmer, and Hugh Jeremy as the producer.[1]
+
+The development team opted to use the Unity engine rather than Spark, the engine used for the company's previous game, Natural Selection 2. Subnautica producer Hugh Jeremy justified this decision because of the different demands that the game places on the engine, and "because [the team] does not include people working on Spark, it's not appropriate for Subnautica to use Spark. By using Unity for Subnautica, Spark can continue to develop in certain directions, while Subnautica develops in others. To use Spark for Subnautica would be like trying to fit a square peg in a round hole."[14]
+
 - GTA SA map in unity
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/GTASA_GoldenGate.png"   height="200" />
