@@ -616,3 +616,57 @@ This has very good chances to work as far as I can tell, but I never tried it pe
 
 
 https://forum.unity.com/threads/vector-graphics-preview-package.529845/page-2
+
+```cs
+
+void OnDrawGizmosSelected(){
+ 
+    var nav = GetComponent<NavMeshAgent>();
+    if( nav == null || nav.path == null )
+        return;
+ 
+    var line = this.GetComponent<LineRenderer>();
+    if( line == null )
+    {
+        line = this.gameObject.AddComponent<LineRenderer>();
+        line.material = new Material( Shader.Find( "Sprites/Default" ) ) { color = Color.yellow };
+        line.SetWidth( 0.5f, 0.5f );
+        line.SetColors( Color.yellow, Color.yellow );
+    }
+ 
+    var path = nav.path;
+ 
+    line.SetVertexCount( path.corners.Length );
+ 
+    for( int i = 0; i < path.corners.Length; i++ )
+    {
+        line.SetPosition( i, path.corners[ i ] );
+    }
+ 
+}
+ 
+```
+
+Adicionar comentário · thub.questions.view.hide-n-comments · Partilhar
+avatar imageexorakhilas · 21 de Oct de 2015 às 09:44 1
+Thank you for sharing!
+
+ avatar imagechainalonez · 23 de Mar de 2016 às 04:07 1
+it's nice sample, thanks a lot :)
+
+ avatar imageFredex8  chainalonez · 23 de Mar de 2016 às 04:45 4
+Since this has been resurrected already...
+
+If you only need it for debugging this can be done easier than that.
+```cs
+for (int i = 0; i < path.corners.Length - 1; i++)
+{
+    Debug.DrawLine(path.corners[i], path.corners[i + 1], Color.red);
+}
+```
+ avatar imageTakuanDaikon  Fredex8 · 23 de Mar de 2016 às 06:24 1
+True, although the LineRenderer supplied some styling options I preferred that Debug.DrawLine() didn't, which of course I removed before posting the code.
+
+Your way is indeed simple, effective, and concise.
+
+You should promote the comment to an answer :)
