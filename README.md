@@ -209,6 +209,7 @@ Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3
 	The Last Night
 	Necrobarista
 	Lost Words 
+	Sea of Solitude
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity.jpg"  width="300" height="169"><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity2.jpg"  width="300" height="169">
 
