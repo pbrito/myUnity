@@ -2,7 +2,7 @@
 
 - GameDev[facebook](https://www.facebook.com/NeCGM.FEUP/)
 - Best Practice Guide[unity](https://docs.unity3d.com/Manual/BestPracticeGuides.html)
-
+- Unity for Humanity 2019 Challenge https://youtu.be/M7-Hk6-cGmY
 ## Change between Scenes
  - Spotlight Team Best Practices: GUID based references [blog](https://blogs.unity3d.com/2018/07/19/spotlight-team-best-practices-guid-based-references/)
  - [Ketos Games](https://www.youtube.com/watch?v=RlUEZjRUSt0)-Smooth Scene Transition Tutorial(video)
@@ -155,6 +155,9 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
   * Animation Events (animation window -AINDA NAO IMPLEMENTADO NA TIMELINE - https://forum.unity.com/threads/timeline-events.479400/page-4)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/AnimationEditorEventLine.png)
   https://docs.unity3d.com/Manual/animeditor-AnimationEvents.html
+- [animation.rigging](https://docs.unity3d.com/Packages/com.unity.animation.rigging@0.1/manual/index.html)
+
+ <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/rigAnim.jpg"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
 
 - ProBuilder
 
