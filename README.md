@@ -202,8 +202,19 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 
 Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3] with Charlie Cleveland as the game director and lead gameplay programmer, and Hugh Jeremy as the producer.[1]
 
+	Fe
+	Florence
+	Forgotton Anne
+	Life is strange
+	In The Valley of the Gods
+	Ori and the Will 
+	A Fold Apart 
+	The Last Night
+	Necrobarista
+	Lost Words 
+	Sea of Solitude
 
-   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity.jpg"  width="300" height="169"><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity2.jpg"  width="300" height="169">
+<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity.jpg"  width="300" height="169"><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity2.jpg"  width="300" height="169">
 
 
 The development team opted to use the Unity engine rather than Spark, the engine used for the company's previous game, Natural Selection 2. Subnautica producer Hugh Jeremy justified this decision because of the different demands that the game places on the engine, and "because [the team] does not include people working on Spark, it's not appropriate for Subnautica to use Spark. By using Unity for Subnautica, Spark can continue to develop in certain directions, while Subnautica develops in others. To use Spark for Subnautica would be like trying to fit a square peg in a round hole."[14]
