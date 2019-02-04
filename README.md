@@ -157,7 +157,7 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
   https://docs.unity3d.com/Manual/animeditor-AnimationEvents.html
 - [animation.rigging](https://docs.unity3d.com/Packages/com.unity.animation.rigging@0.1/manual/index.html)
 
- <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/rigAnim.jpg"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
+ <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/rigAnim.jpg"   height="200" /> 
 
 - ProBuilder
 
