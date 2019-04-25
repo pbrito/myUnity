@@ -130,7 +130,18 @@ post com um exemplo em que um playable é alterado em runtime SetTransformTweenE
 http://westhillapps.blog.jp/archives/52975464.html
 
 ----
-#TextMesh Pro
+windows Log
+C:\Users\diogo\AppData\LocalLow\DefaultCompany\fono6
+
+# NavMesh
+
+NavMeshComponents - [Git repo](https://github.com/Unity-Technologies/NavMeshComponents)
+Clone or download this repository , copy the contents of Assets/NavMeshComponents to an existing project
+
+NavMeshComponents has four components for the navigation system.
+Utilizo o componente NavMeshSurface.
+
+# TextMesh Pro
 --
 
 Para a fonte comportar como monospace
@@ -670,3 +681,53 @@ True, although the LineRenderer supplied some styling options I preferred that D
 Your way is indeed simple, effective, and concise.
 
 You should promote the comment to an answer :)
+
+## path
+https://www.youtube.com/watch?v=saAQNRSYU9k
+
+
+## Addressables
+
+https://www.youtube.com/watch?v=cfp_bx_C094
+
+using UnityEngine.ResourceManagement;
+using UnityEngine.AddressableAssets;
+
+
+
+
+
+
+   /*
+       var toi= Addressables.ResourceLocators.OfType<ResourceLocationMap>()
+            .SelectMany(locationMap =>
+                locationMap.Locations.Values.Select(key => key.First())
+            );
+       foreach (var s in toi)
+       {
+           Debug.Log( s.Data.+ "++++");
+       }
+             */
+      
+      
+        /*
+
+        foreach (var resourceLocator in Addressables.ResourceLocators)
+        {
+            
+            foreach (var resourceLocatorKey in resourceLocator.Keys)
+            {
+                IList<IResourceLocation> locs;
+                resourceLocator.Locate(resourceLocatorKey, out locs);
+                foreach (var resourceLocation in locs)
+                {
+                    Debug.Log(resourceLocation.InternalId+"++++"+resourceLocation.ToString());
+                    
+                }
+                if(locs.First().Data!=null)
+                Debug.Log( resourceLocator.GetType().ToString()  +" ~~~ "+locs.Count+ " x " +locs.First().ToString() +" @  "+ locs.First().Data.ToString()+"  ###############   "+ resourceLocatorKey.ToString()   );
+
+            }
+            
+        }
+        */

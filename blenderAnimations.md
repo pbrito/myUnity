@@ -75,6 +75,14 @@ using Right Mouse as the event value (keybinding) rather then Select Mouse this 
 
 
 
+How Rayman Legends Is Made!
+https://www.youtube.com/watch?v=y-chi097uV4
+
+## drivers
+blender 2.8 drivers
+https://www.youtube.com/watch?v=8_n-dooMQmU
+https://www.youtube.com/watch?v=Hv29eAnuh0s&t=44s
+https://www.youtube.com/watch?v=_WouPZqB4fo
 ## bones
 
 Blender bones Tutorial - Low Poly Chest Animation 
