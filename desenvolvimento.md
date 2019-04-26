@@ -4,7 +4,7 @@
 
 Por vezes quando o Low Resolution não esta selecionado o click sobre um objecto não funciona.
 
-![Screenshot](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/resolution.png)
+![Screenshot](./img/unity/resolution.png?raw=true)
 
 Drag object(com boxcollider) funciona quanda a camera esta em modo ortho
 
