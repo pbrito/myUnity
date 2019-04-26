@@ -92,7 +92,7 @@ public class ExampleClass : MonoBehaviour {
 
 ### Animator
 
-![Screenshot](https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/animator.png)
+![Screenshot](./img/unity/animator.png?raw=true)
 
 ```cs
 Animator anim;
@@ -124,7 +124,7 @@ if (Input.GetButtonDown("Jump"))
 "Has Exit Time" quer dizer que a animac~ao corre at'e ao fim.
 Para a animacao parar imediatamente e iniciar a transic~ao tem de estar uncheck.
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/transition.png" width="300">
+<img src="./img/unity/transition.png?raw=true" width="300">
 
 post com um exemplo em que um playable é alterado em runtime SetTransformTweenEndLocation
 http://westhillapps.blog.jp/archives/52975464.html
@@ -219,7 +219,7 @@ public class TransformVariableClass : ScriptableObject {
 ```
 
 Depois crio um objecto  atraves do menu Create> "Variables/Transform"
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/target0.png" width="300">
+<img src="./img/unity/target0.png?raw=true" width="300">
 
 ```cs
 public class SetPursuitTarget : MonoBehaviour {
@@ -238,7 +238,7 @@ Associo-o a um GameObject no campo do Componente(Script) SetPursuitTarget e a su
 
 Agora no PreFab CuboLetra a variavel Zero é associada  a um ScriptableObject (do tipo TranformVariableClass) 
 
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/target1.png" width="300">
+<img src="./img/unity/target1.png?raw=true" width="300">
 
 <br>
 
@@ -297,7 +297,7 @@ In the "preload" scene make an empty GameObject called, say, "__app".
 
 Simply, put DontDestroyOnLoad on '__app' via script.
 Like a one-line DDOL script:
-<img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/3DiYn.png" width="300">
+<img src="./img/unity/3DiYn.png?raw=true" width="300">
 
 Note:
 This is the only place in the whole project you use DontDestroyOnLoad.
