@@ -2,12 +2,7 @@
 ![](./img/vfx/2019-04-27-00-06-56.png?raw=true)
 Since Visual Effect Graph is compatible with LWRP, how to set it and how to respond.
 
--   [Visual Effect Graph](#Visual-Effect-Graph)
--   [Visual Effect Graph supports LWRP](#Visual-Effect-GraphがLWRPに対応)
--   [Procedure for LWRP](#LWRP対応の手順)
--   [Bonus: Legacy Render Pipeline support](#おまけLegacy-Render-Pipelineの対応)
--   [Impression](#感想)
--   [Relation](#関連)
+
 
 Visual Effect Graph
 ===================
@@ -16,9 +11,9 @@ Visual Effect Graph is a node-based effect generation tool.
 
 It is treated as a successor to particle, but it has a very flexible function, and in addition to simple effects, it also feels that various applications such as map-like expressions are effective. As for the movement, the lower video will move up.
 
-<iframe width="480" height="270" src="//www.youtube.com/embed/SUZzJcBIK80?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>*[www.youtube.com](https://www.youtube.com/watch?v=SUZzJcBIK80)*
+[![](https://img.youtube.com/vi/SUZzJcBIK80/0.jpg)](https://www.youtube.com/watch?v=SUZzJcBIK80)
 
-<iframe width="480" height="270" src="//www.youtube.com/embed/uvGX8GPdfTE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>*[www.youtube.com](https://www.youtube.com/watch?v=uvGX8GPdfTE)*
+[![](https://img.youtube.com/vi/uvGX8GPdfTE/0.jpg)](https://www.youtube.com/watch?v=uvGX8GPdfTE)
 
 Visual Effect Graph supports LWRP
 =================================
@@ -57,12 +52,15 @@ Now that the LWRP compliant shader is generated, you can use the Visual Effect G
 ![](./img/vfx//2019-04-27-00-00-15.png?raw=true)
 
 
-<figcaption>LWRP compatible setup procedure</figcaption>
-
-</figure>
 
 
 Impression
 ==========
 
 [GPU](http://d.hatena.ne.jp/keyword/GPU) particles are fun. Even if the amount is increased, there is no increase in CPU.
+
+
+# VFX Toolbox
+
+- Image Sequencer
+- Point Cache or Velocity Field

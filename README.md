@@ -175,7 +175,16 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 
 -[keijiro/Beta](https://github.com/keijiro/Beta)
 
-![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/keijiroBeta.gif)
+![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/keijiroBeta.gif?raw=true)
+
+-[keijiro/LASP](https://github.com/keijiro/Lasp)
+
+![](img/2019-04-27-13-51-14.gif?raw=true)
+
+[![](https://img.youtube.com/vi/uvGX8GPdfTE/0.jpg)](https://www.youtube.com/watch?v=uvGX8GPdfTE)
+
+-[connect an Intel RealSense depth camera to a Unity Visual Effect Graph.](https://github.com/keijiro/Rsvfx)
+![](img/2019-04-27-13-56-11.gif?raw=true)
 
 ## JOGOS
 
@@ -186,22 +195,22 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 
 - the gardens between - http://www.thegardensbetween.com/
 
-   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/gardensBetween.gif"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/animGardenB.gif"   height="200" />
+   <img src="img/gardensBetween.gif?raw=true"   height="200" /> <img src="img/animGardenB.gif?raw=true"   height="200" />
 
 - firewatch
 
-   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_01.jpg"   height="200" /> <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/firewatch_04.jpg"   height="200" />
+   <img src="img/firewatch_01.jpg?raw=true"   height="200" /> <img src="img/firewatch_04.jpg?raw=true"   height="200" />
 
 - Return of the Obra Dinn
 
-   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/ObraDinn.gif"  width="300" height="169">
+   <img src="img/ObraDinn.gif?raw=true"  width="300" height="169">
 
 - Subnautica
 
-   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnautica.jpg"  width="300" height="169">
+   <img src="img/subnautica.jpg?raw=true"  width="300" height="169">
 - Jenny Le Clue
 
-   <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/jennyLeClue.jpg"  width="300" height="169">
+   <img src="img/jennyLeClue.jpg?raw=true"  width="300" height="169">
 
 
 Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3] with Charlie Cleveland as the game director and lead gameplay programmer, and Hugh Jeremy as the producer.[1]
