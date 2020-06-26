@@ -96,6 +96,7 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 I consider this framework very much a work in progress. Even so I find its core features, the Events and Actions systems to be rather robust, and can be used as is. The interface for them won't be changing in the future, as any future work on them will be adding features and fixing any discovered issues.
 
 ## Tutorials
+- https://github.com/UnityCommunity/AwesomeUnityCommunity
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
 - PlaygroundProject A collection of simple scripts to create 2D physics games[github](https://github.com/UnityTechnologies/PlaygroundProject)
 
