@@ -97,6 +97,7 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 I consider this framework very much a work in progress. Even so I find its core features, the Events and Actions systems to be rather robust, and can be used as is. The interface for them won't be changing in the future, as any future work on them will be adding features and fixing any discovered issues.
 
 ## Tutorials
+- https://github.com/UnityCommunity/AwesomeUnityCommunity
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
 - PlaygroundProject A collection of simple scripts to create 2D physics games[github](https://github.com/UnityTechnologies/PlaygroundProject)
 
@@ -270,6 +271,7 @@ https://bitbucket.org/MukaSchultze/grand-theft-auto-for-unity/src
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.png)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.GIF)
 
+https://github.com/traggett/UnityFramework
 
 - A console for use in Unity Projects [unity-shell](https://github.com/marijnz/unity-shell) -The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. 
 There are some examples shipped with the base package.
