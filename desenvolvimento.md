@@ -202,6 +202,14 @@ void Awake()
 
 ```
 
+## Gizmos
+
+Draw Debug Information in the Unity Editor with Gizmos
+[![](https://img.youtube.com/vi/S7HfszIEAAY/0.jpg)](https://www.youtube.com/watch?v=S7HfszIEAAY)
+
+## custom editor
+[![](https://img.youtube.com/vi/3efiobxsurY/0.jpg)](https://www.youtube.com/watch?v=3efiobxsurY)
+
 ## Criar um target com ScriptableObject
 
 https://www.youtube.com/watch?v=F5S2gq-30D8
