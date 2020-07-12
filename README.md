@@ -44,7 +44,8 @@
     ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scripObjScreen.png)
 
  
-
+ - outra implementacao https://github.com/NeoDragonCP/Unity-ScriptableObjects-Game-Events-
+ [video](https://www.youtube.com/watch?v=1ZK63Mp6yTY)
 
  - Unite 2016 - Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object Revolution
 [video](https://www.youtube.com/watch?v=6vmRwLYWNRo&t=6s)
@@ -212,10 +213,23 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 
    <img src="img/jennyLeClue.jpg?raw=true"  width="300" height="169">
 
+- CocoVR
+
+   <img src="img/2019-06-29-14-49-55.png?raw=true"  width="300" height="169">
+
+   ![](https://img.youtube.com/vi/ud_eXl2ete8/0.jpg) link(https://www.youtube.com/watch?v=ud_eXl2ete8)
+
+-Rick and Marty VR
 
 Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3] with Charlie Cleveland as the game director and lead gameplay programmer, and Hugh Jeremy as the producer.[1]
 
+- baldo
+
+![](img/baldo.png)
+
+
 	Fe
+	Old Man's Journey
 	Florence
 	Forgotton Anne
 	Life is strange
@@ -224,10 +238,14 @@ Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3
 	A Fold Apart 
 	The Last Night
 	Necrobarista
-	Lost Words 
+	Lost Words
 	Sea of Solitude
+	Old Man's Journey
+	Monument Valley
+
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity.jpg"  width="300" height="169"><img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/subnauticaUnity2.jpg"  width="300" height="169">
+
 
 
 The development team opted to use the Unity engine rather than Spark, the engine used for the company's previous game, Natural Selection 2. Subnautica producer Hugh Jeremy justified this decision because of the different demands that the game places on the engine, and "because [the team] does not include people working on Spark, it's not appropriate for Subnautica to use Spark. By using Unity for Subnautica, Spark can continue to develop in certain directions, while Subnautica develops in others. To use Spark for Subnautica would be like trying to fit a square peg in a round hole."[14]
@@ -275,7 +293,25 @@ FlowCanvas
  
   ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/flwch.jpg)
   ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/flch2.jpg)
+
+----
+## Raymarching
+A Unity add-on for editing raymarched scenes live
+In raymarching, a scene is made out of a series of algorithms and mathematical operations.
+
+With raymarching you can do amazing things, like blend objects together or repeat them infinitely.
+
+https://kev.town/raymarching-toolkit/
+
+![](img/raymarching.png)
+
+Raymarching Shader Generator in Unity
+https://github.com/hecomi/uRaymarching
+https://github.com/hecomi/uRaymarchingExamples
+
+-----
 ### JSON
+-----
 https://github.com/SaladLab/Json.Net.Unity3D
 
 ### uniRX - Reactive Extensions for Unity 
