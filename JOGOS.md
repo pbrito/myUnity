@@ -38,9 +38,11 @@ Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3
 
 ![](img/baldo.png)
 
+- 	Old Man's Journey
 
+![](img/oldmanJurney.png)
 	Fe
-	Old Man's Journey
+
 	Florence
 	Forgotton Anne
 	Life is strange
@@ -51,7 +53,6 @@ Subnautica was announced by Unknown Worlds Entertainment on December 17, 2013,[3
 	Necrobarista
 	Lost Words
 	Sea of Solitude
-	Old Man's Journey
 	Monument Valley
 
 
