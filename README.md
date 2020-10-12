@@ -174,6 +174,10 @@ Uncle Sam (Pt2) Spine 2D Animation Process - Time
 - Attribute Extensions for Unity https://github.com/dbrizov/NaughtyAttributes
 - Tool for validating (ensuring no broken / missing outlets) objects like GameObjects, ScriptableObjects, etc, in the Unity Editor. https://github.com/DarrenTsung/DTValidator
 
+ShaderGraph Property Renamer
+Adds a new window accessible in the menu Tools>ShaderGraph Property renamer This tool allows the user to change reference names and display name of shader graph properties.
+https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
+
 ## Examples
  
 - robot Arm https://github.com/Unity-Technologies/articulations-robot-demo
