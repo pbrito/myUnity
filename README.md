@@ -102,7 +102,7 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
 - PlaygroundProject A collection of simple scripts to create 2D physics games[github](https://github.com/UnityTechnologies/PlaygroundProject)
-
+- [GameEngineArchitectureSamples](https://github.com/Azurelol/GameEngineArchitectureSamples)
 
 *Tips
 
@@ -142,7 +142,6 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 ## Animation
 
 - keijiro/SkeletalGeometricEffects[github](https://github.com/keijiro/SkeletalGeometricEffects)
-
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric0.gif)
 ![gif](https://raw.githubusercontent.com/pbrito/myUnity/master/img/SkeletalGeometric1.gif)
 
@@ -179,8 +178,11 @@ https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
 
 ## Examples
  
-- robot Arm https://github.com/Unity-Technologies/articulations-robot-demo
+- robot Arm [github-demo](https://github.com/Unity-Technologies/articulations-robot-demo)
  ![](img/robotArm.png)
+
+ - [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+  ![](img/roboticsUnity.png)
 
 - [DOTS-training-samples](https://github.com/Unity-Technologies/DOTS-training-samples)   
    ![](img/dotsExample.png)
@@ -190,6 +192,9 @@ https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
 
 - [flutter unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) UIWidgets is a plugin package for Unity Editor which helps developers to create, debug and deploy efficient, cross-platform Apps using the Unity Engine.
     ![](img/fluterUI.png)
+
+- [FigmaToUnityImporter](https://github.com/ManakhovN/FigmaToUnityImporter)  -Tool that imports nodes from Figma into the Unity 
+![](img/figma.png)   
 
 - https://github.com/Unity-Technologies/com.unity.perception    
 ![](img/perceptionI.png)
@@ -222,8 +227,8 @@ https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
  -Lots of useful utility classes.
  -Simple but powerful Event based Statemachine system with editor.
  -Localisation system
- -Fast and powerful NodeGraph system with editor.
-![](img/UnityFramework.png)
+ -Fast and powerful NodeGraph system with editor.    
+![](img/UnityFramework.png) Statemachine Editor
 
 
 - [Console](https://github.com/peeweek/Console) -
