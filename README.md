@@ -199,6 +199,11 @@ https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
 - https://github.com/Unity-Technologies/com.unity.perception    
 ![](img/perceptionI.png)
 
+- [unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts)
+![](img/xchart.png)
+
+- https://github.com/Yecats/UnityBehaviorTreeVisualizer
+
 ## Live Programming
 
 - [keijiro/Beta](https://github.com/keijiro/Beta)   
