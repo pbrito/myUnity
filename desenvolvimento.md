@@ -1,5 +1,56 @@
 # Unity
 
+# eventos
+
+![](img/dev/ev1.png)
+
+Os objectos Arcas e Sinais tem um trigger que faz com que PlacaManager lançe o evento PlacaObjectGameEvent e o StatteMachineLogica.cs(STATE_MACHINE) tem  listener para esse evento.
+
+```cs
+    private void Start()
+    {
+        IlhaObjectsClick_Listner.AddListener(
+            d => ClickTriggerAccao((placaObject) d));
+        todasLetrasBauClicadas.AddListener(
+            d => todasLetrasBauLidas( d));
+        setaBauClickClicadas.AddListener(d => setaBauClick( d));
+       // _moveTarget = GetIlhaManager().kidAnimator.transform.GetComponent<MoveTarget>();
+    }
+```
+
+Click nas moedas quando o Bau esta aberto é tratado no seguinte 
+bau.cs porque cada moeda tem dispra um bauLetraClickGameEvent
+```cs
+bauLetraClickGameEventListner.AddListener(d => onBauClick(d));
+.
+.
+ public void onBauClick(GameObject gO) {
+   
+        Debug.Log(gO.name + "onBauClick moeda ou seta Clicada");
+        var moeda = gO.transform.parent.parent;
+        //neste contexto a moeda e uma arca
+        if (moeda.gameObject.GetComponent<bau>())
+        {
+               ... 
+
+        }
+      
+        if (listaMoedasTrue.Count == listaLetras.Count)
+        {
+            //TODO
+           // Debug.Log("VAR todas letras clicadas");
+            todasLetrasBauClicadas.Raise(gameObject);
+        } 
+
+```
+
+todasLetrasBauClicadas dispara o  listener no StatteMachineLogica.cs 
+
+
+todasLetrasBauClicadas
+
+
+
 ## mouse selection
 
 Por vezes quando o Low Resolution não esta selecionado o click sobre um objecto não funciona.
@@ -35,7 +86,13 @@ public class DragAndDrop : MonoBehaviour {
   
   // Update is called once per frame
   void Update () {
-        if (Input.GetMouseButtonDown(0) && ((Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position).magnitude <= offset))
+        if (
+            Input.GetMouseButtonDown(0) 
+            && 
+            (
+                (Camera.main.ScreenToWorldPoint(Input.mousePosition) - 
+                transform.position).magnitude <= offset
+             ))
         {
             if (following)
             {
@@ -48,14 +105,19 @@ public class DragAndDrop : MonoBehaviour {
         }
         if (following)
         {
-            transform.position = Vector2.Lerp(transform.position, Camera.main.ScreenToWorldPoint(Input.mousePosition), moveSpeed);
+            transform.position = Vector2.Lerp(
+                transform.position, Camera.main.ScreenToWorldPoint(
+                    Input.mousePosition), moveSpeed);
         }
     }
 }
 
 ```
 
-Espera que a timeline chegue ao fim
+----
+# Timeline
+ Espera que a timeline chegue ao fim
+
 
 ```cs
     IEnumerator playWin(PlayableDirector playableDirector)
@@ -71,11 +133,6 @@ Espera que a timeline chegue ao fim
         GameManager.gameManager.nextScene(111);
     }
 ```
----
-# Animation
---
-
-### Animation TimeLine Animator
 
 ```cs
 public class ExampleClass : MonoBehaviour {
@@ -83,7 +140,9 @@ public class ExampleClass : MonoBehaviour {
     public float speed;
     void Update() {
         float step = speed * Time.deltaTime;
-        transform.position = Vector3.MoveTowards(transform.position, target.position, step);
+        transform.position = 
+            Vector3.MoveTowards(
+                transform.position, target.position, step);
     }
 }
 ```
@@ -114,8 +173,6 @@ anim.SetTrigger(clicked);
 ```
 ```cs
 if (Input.GetButtonDown("Jump"))
-  
-
     private void OnMouseDown()
     {
         if (Input.GetMouseButton(0))
@@ -131,7 +188,10 @@ http://westhillapps.blog.jp/archives/52975464.html
 
 ----
 windows Log
+
 C:\Users\diogo\AppData\LocalLow\DefaultCompany\fono6
+
+---
 
 # NavMesh
 
@@ -141,68 +201,10 @@ Clone or download this repository , copy the contents of Assets/NavMeshComponent
 NavMeshComponents has four components for the navigation system.
 Utilizo o componente NavMeshSurface.
 
-# TextMesh Pro
---
-
-Para a fonte comportar como monospace
-
-```
-<mspace=2.75em>pato</mspace>
-```
-
-gameObject
-
-transform 
-
-#Game
-```cs
-
-
-using System.Collections.Generic;       //Allows us to use Lists.
-using Random = UnityEngine.Random;      //Tells Random to use the Unity Engine random number generator.
-
-namespace Completed
 
     
-
-      
-private List <Vector3> gridPositions = new List <Vector3> ();   //A list of possible locations to place tiles.
-        
-GameObject instance =Instantiate (toInstantiate, new Vector3 (x, y, 0f), Quaternion.identity) as GameObject;
-                  
-instance.transform.SetParent (boardHolder);
-int randomIndex = Random.Range (0, gridPositions.Count);
-            
-
-public static GameManager instance = null;              //Static instance of GameManager which allows it to be accessed by any other script.
-
-//Awake is always called before any Start functions
-void Awake()
-{
-    //Check if instance already exists
-    if (instance == null)
-        
-        //if not, set instance to this
-        instance = this;
-    
-    //If instance already exists and it's not this:
-    else if (instance != this)
-        
-        //Then destroy this. This enforces our singleton pattern, meaning there can only ever be one instance of a GameManager.
-        Destroy(gameObject);    
-    
-    //Sets this to not be destroyed when reloading scene
-    DontDestroyOnLoad(gameObject);
-    
-     boardScript.SetupScene(level);
-}
-  
-    
-    
-
-```
-
 ## Gizmos
+```
 
 Draw Debug Information in the Unity Editor with Gizmos
 [![](https://img.youtube.com/vi/S7HfszIEAAY/0.jpg)](https://www.youtube.com/watch?v=S7HfszIEAAY)
@@ -213,6 +215,8 @@ Draw Debug Information in the Unity Editor with Gizmos
 ## Criar um target com ScriptableObject
 
 https://www.youtube.com/watch?v=F5S2gq-30D8
+
+```
 
 
 ```cs
@@ -240,6 +244,7 @@ public class SetPursuitTarget : MonoBehaviour {
 }
 
 ```
+
 Associo-o a um GameObject no campo do Componente(Script) SetPursuitTarget e a sua variable "transformVar".
 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/unity/target.png" width="300">
@@ -539,62 +544,7 @@ There are the only two unresolved problems that I have with this architecture, b
 
 ------------
 
-- GameObjectEvent.cs
 
-```cs
-using System.Collections.Generic;
-using UnityEngine;
-
-[CreateAssetMenu(fileName = "NewGameEvent", menuName = "Events/GameObjEvent", order = 1)]
-public class GameObjectEvent : GameEvent
-{
-    private string meu;
-
-    public GameObjectEvent(string name)
-            : base()
-    {
-        meu = name;
-    }
-
-}
-```
-- GameObjectEventListener.cs
-
-```cs
-using UnityEngine;
-using UnityEngine.Events;
-
-public class GameObjectEventListener : GameEventListener
-{
-    [Tooltip("Event to register with.")]
-    public GameObjectEvent Event;
-
-    [Tooltip("Response to invoke when Event is raised.")]
-    public UnityObjectEvent Response;
-
-    private void OnEnable()
-    {
-        Event.RegisterListener(this);
-    }
-
-    private void OnDisable()
-    {
-        Event.UnregisterListener(this);
-    }
-
-    public void OnEventRaised()
-    {
-        string h=Event.letra;
-    Debug.Log(h + "  --------------------");
-		Response.Invoke();
-    }
-}
-
-```
-- GameObjectUnityEvent.cs
-
-```cs
-GameObjectUnityEvent : UnityEvent
 ```
 ##SVG
 Also it seems like the Color field of the SpriteRenderer doesn't work for SVG imported sprites (with either the UnlitVector material or the Sprites-Default). I added an extra script that sets "_Color" on the material and that works fine with both materials though. I'm guessing it has something to do with "_RendererColor".
