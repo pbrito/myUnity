@@ -49,6 +49,12 @@ todasLetrasBauClicadas dispara o  listener no StatteMachineLogica.cs
 
 todasLetrasBauClicadas
 
+---
+
+ ## tip
+```
+ [ContextMenu("turnOnLight")]
+```
 
 
 ## mouse selection
