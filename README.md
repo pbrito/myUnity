@@ -120,6 +120,10 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/postProcessingX84.png"   height="200" />
 
 
+## DXR
+https://github.com/Unity-Technologies/HDRPRayTracingScenes
+https://github.com/sasa42/project-424-unity
+
 ## 2D
 - [light 2D](https://www.youtube.com/watch?v=IjP2MeSozIs)
 - 2D Animation    https://github.com/Unity-Technologies/2d-spriteshape-samples
