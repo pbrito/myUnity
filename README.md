@@ -77,6 +77,7 @@ Unity Scriptable Objects as Enums [video](https://www.youtube.com/watch?v=zo2sxh
  ## C# job system
 - [examples](https://github.com/stella3d/job-system-cookbook) - Examples of using the C# Job System in Unity 2018
  - [SimpleAnimation](https://github.com/Unity-Technologies/SimpleAnimation)A simple Animation Component that leverages PlayableGraphs [post](https://blogs.unity3d.com/2017/11/28/introducing-the-simple-animation-component/)
+ - [forum](https://forum.unity.com/threads/ecs-examples-for-inspiration.820614/) examples
  
 ## Shaders
 - keijiro/Swarm [github](https://github.com/keijiro/Swarm)An example of use of compute shaders and procedural instancing.
@@ -164,14 +165,17 @@ https://github.com/sasa42/project-424-unity
 - [animation.rigging](https://docs.unity3d.com/Packages/com.unity.animation.rigging@0.1/manual/index.html)   
  <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/rigAnim.jpg"   height="200" /> 
  
- road tool
- https://www.youtube.com/watch?v=sS-qAdlID68&ab_channel=UGuruz
- https://github.com/FritzsHero/RoadArchitect
- https://github.com/FritzsHero/RoadArchitect
-
+ - RoadArchitect
+![](img/roadArch.png)
+ [video](https://www.youtube.com/watch?v=sS-qAdlID68&ab_channel=UGuruz)
+ [github](https://github.com/FritzsHero/RoadArchitect)
+ 
 - ProBuilder
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/probuilder.jpg)
 
+- Animation-Sequencer
+[link](https://github.com/brunomikoski/Animation-Sequencer)
+![](img/animSeq.png)
 
 - Highroad Engine : Arcade Racing solution for Unity
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Highroad.jpg)
