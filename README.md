@@ -117,13 +117,16 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 
 - keijiro/PostProcessingUtilities[github](https://github.com/keijiro/PostProcessingUtilities)
 - PostProcessing [wiki](https://github.com/Unity-Technologies/PostProcessing/wiki),[Quick-start](https://github.com/Unity-Technologies/PostProcessing/wiki/Quick-start)
-
 <img src="https://raw.githubusercontent.com/pbrito/myUnity/master/img/postProcessingX84.png"   height="200" />
 
 
 ## DXR
-https://github.com/Unity-Technologies/HDRPRayTracingScenes
-https://github.com/sasa42/project-424-unity
+- HDRPRayTracingScenes - [github Unity](https://github.com/Unity-Technologies/HDRPRayTracingScenes)     
+![](img/dxrSamples.png)
+
+
+- https://github.com/sasa42/project-424-unity
+![](img/project424.png)
 
 ## 2D
 - [light 2D](https://www.youtube.com/watch?v=IjP2MeSozIs)
@@ -173,8 +176,8 @@ https://github.com/sasa42/project-424-unity
 - ProBuilder
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/probuilder.jpg)
 
-- Animation-Sequencer
-[link](https://github.com/brunomikoski/Animation-Sequencer)
+- Animation-Sequencer     
+[link](https://github.com/brunomikoski/Animation-Sequencer)      
 ![](img/animSeq.png)
 
 - Highroad Engine : Arcade Racing solution for Unity
@@ -258,6 +261,17 @@ A console for use in Unity Projects. The goal is to keep it as simple as possibl
 - [Mapbox unity-sdk](https://www.mapbox.com/unity-sdk)
 The Maps SDK for Unity is a collection of tools for building Unity applications from real map data. It enables Unity developers to interact with Mapbox web services APIs (including the Maps, Geocoding and Directions APIs) and create game objects via a C#-based API and graphical user interface.
 
+ - https://github.com/Whinarn/UnityMeshSimplifier
+
+---
+- For blender unity exporter add-on  rotation-fix
+   - https://forum.unity.com/threads/blender-unity-rotation-fix.181870/
+
+
+- Blender export Fix Scale - if you choose FBX and wonder why the scale is always off, you have to change one thing in the Export window to fix it. 
+
+ - Apply Scaling - From "All Local" to "FBX All" 
+- ![](img/2021-09-27-15-15-25.png)
 ---
 
 # Visual scripting
