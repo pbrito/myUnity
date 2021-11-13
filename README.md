@@ -256,6 +256,9 @@ https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
 A console for use in Unity Projects. The goal is to keep it as simple as possible. The console can register console commands to extend its possibilities. Console commands are easy to write and implement. There are some examples shipped with the base package.
 ![](img/console_Peeweek.png)
 
+- [Console-in-Game](https://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068) - FREE asset for #Unity3D lets you monitor the console output in an actual build.
+![](img/consoleLogInGame.png)
+
 - [UnityIngameDebugConsole](https://github.com/yasirkula/)This asset helps you see debug messages (logs, warnings, errors, exceptions) runtime in a build (also assertions in editor) and execute commands using its built-in console. It also supports logging logcat messages to the console on Android platform.UnityIngameDebugConsole
 - ![](img/UnityInGameConsole.png)
 - [Mapbox unity-sdk](https://www.mapbox.com/unity-sdk)
@@ -351,5 +354,6 @@ Scene Track: Game Media Exporter is an open source animation tool that delivers 
 
 - https://connect.unity.com/
 
+- https://gamedev-resources.com
 
  - https://github.com/UnityCommunity/AwesomeUnityCommunity
