@@ -357,3 +357,16 @@ Scene Track: Game Media Exporter is an open source animation tool that delivers 
 - https://gamedev-resources.com
 
  - https://github.com/UnityCommunity/AwesomeUnityCommunity
+
+- https://danielilett.com/
+![](tutorial-50.png)
+
+- https://github.com/lettier/3d-game-shaders-for-beginners
+![](shaders-02-24.png)
+
+- https://github.com/QianMo/Unity-Design-Pattern
+![](patterns-58-40.png)
+
+- https://github.com/UnityCommunity/UnityLibrary
+
+- https://github.com/juicycleff/flutter-unity-view-widget
