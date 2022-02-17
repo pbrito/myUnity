@@ -38,8 +38,12 @@
 [[unity-blogpost]](https://unity3d.com/how-to/architect-with-scriptable-objects)
     ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scriptObj.png)
 
+- scriptableobject-architecture [AssetStore](https://assetstore.unity.com/packages/tools/utilities/scriptableobject-architecture-131520) -  [github](https://github.com/DanielEverland/ScriptableObject-Architecture)
+![](so-architecture.png)
 
-- SmartData [github](https://github.com/sigtrapgames/SmartData) implementacao da talk acima referida
+- [unity-atoms](https://github.com/unity-atoms/unity-atoms) mais uma implementacao
+
+- SmartData [github](https://github.com/sigtrapgames/SmartData) implementacao mais antiga
 
     ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/scripObjScreen.png)
 
@@ -97,8 +101,9 @@ In this repository you will find the source code to the Stratus Framework, a C# 
 ![](img/stratusFram.png)
 
 
-- [Gameplay ingredients](https://github.com/peeweek/net.peeweek.gameplay-ingredients) - A collection of scripts that ease simple tasks while making games and prototypes.
+- [Gameplay ingredients](https://github.com/peeweek/net.peeweek.gameplay-ingredients) - A collection of scripts that ease simple tasks while making games and prototypes.[videos](https://www.youtube.com/channel/UCqJdG7z1a-XDVk65hvGIT-g/videos)
 ![](img/gameplay_ingredients.png)
+
 ## Tutorials
 
 - [reddit.com/r/unity_tutorials](https://www.reddit.com/r/unity_tutorials)
@@ -192,6 +197,17 @@ ShaderGraph Property Renamer
 Adds a new window accessible in the menu Tools>ShaderGraph Property renamer This tool allows the user to change reference names and display name of shader graph properties.
 https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
 
+------
+blender 
+
+ApplyModifierForObjectWithShapeKeys
+Blender script
+
+https://github.com/przemir/ApplyModifierForObjectWithShapeKeys
+
+Apply modifiers and remove them from the stack for objects with shape keys. (Pushing 'Apply' in the 'Object modifiers' tab results in the error 'Modifier cannot be applied to a mesh with shape keys'). 
+
+
 ## Examples
  
 - robot Arm [github-demo](https://github.com/Unity-Technologies/articulations-robot-demo)
@@ -243,6 +259,9 @@ https://github.com/JulienHeijmans/ShaderGraphPropertyRenamer
 - [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) - Free Texture Map Generation Tool
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.png)
 ![](https://raw.githubusercontent.com/pbrito/myUnity/master/img/Materialize.GIF)
+
+- [Mixture](https://github.com/alelievr/Mixture)Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime. Mixture is very flexible, easily customizable through ShaderGraph and a simple C# API, fast with it's GPU based workflow and compatible with all the render pipelines thanks to the new Custom Render Texture API.
+![](img/mixture.png)
 
 - [UnityFramework](https://github.com/traggett/UnityFramework) Framework for Unity that includes
  -Lots of useful utility classes.
