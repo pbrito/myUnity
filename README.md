@@ -377,11 +377,21 @@ Scene Track: Game Media Exporter is an open source animation tool that delivers 
 - <https://github.com/Unity-Technologies/com.unity.toonshader>
 ![](img/unityToonShader.png)
 
+
+ - https://github.com/unity3d-jp/AnimeToolbox
+
+ - ![](img/robo-anime.png)
+- https://github.com/unity3d-jp/AnimeToolbox/wiki/Presentations
+-  https://github.com/unity3d-jp/AnimeToolbox/wiki/How-to-Install-Templates
+
+
+
 - <https://github.com/AKGWSB/ToyRenderPipeline>
 ![](img/toyRender.png)
 
 - <https://github.com/JasonMa0012/JasonMaToonRenderPipeline>
 ![](img/jsasonMaToon.png)
+
 
 - https://github.com/lettier/3d-game-shaders-for-beginners
 ![](img/shadersBeginners.png)
