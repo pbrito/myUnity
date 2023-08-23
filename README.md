@@ -222,6 +222,17 @@ Apply modifiers and remove them from the stack for objects with shape keys. (Pus
 - [Project Tiny Samples](https://github.com/Unity-Technologies/ProjectTinySamples)
  ![](img/tinyExample.png)
 
+ - [boss Rom](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop)
+![](img/boss-0.png)
+
+- [Galactic Kittens](https://github.com/UnityTechnologies/GalacticKittens)![](img/galatic.png) [video](https://www.youtube.com/watch?v=JIN9BRNMtjI&t=237s)
+
+https://github.com/Unity-Technologies/game-programming-patterns-demo
+
+https://github.com/UnityTechnologies/BuffaloKing
+
+https://blog.unity.com/engine-platform/addressables-planning-and-best-practices
+
 - [project](https://github.com/coherence/first-steps-tutorial) The First Steps tutorial project contains a series of small sample scenes, each one demonstrating one or more features of coherence.
       ![](img/coherenceIo-3.png)
 
@@ -443,3 +454,10 @@ https://github.com/alelievr/HDRP-Custom-Passes
 https://github.com/alelievr/HDRP-UI-Camera-Stacking
 
 - https://github.com/MohitSethi99/EZUI - Unity Animation system is not meant to work with UI. The solution to this is using tweens.
+
+
+## Examples
+
+https://www.blender.org/download/demo-files/
+![](img/blenderDemos.png)
+![](img/BlenderCycles.png)
